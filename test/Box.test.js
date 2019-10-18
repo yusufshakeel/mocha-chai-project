@@ -1,4 +1,4 @@
-var assert = require('Chai').assert;
+var assert = require('chai').assert;
 var Box = require('../js/Box');
 
 describe('Testing Box', function() {
